@@ -1,0 +1,31 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "Andrei Ferreira",
+      "userName": "andrei",
+      "task":[
+        {
+          "idTask": "1",
+          "description": "test",
+          "priority": "low",
+          "actived": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ednaldo Pereira",
+      "userName": "ednaldo",
+      "task":[
+        {
+          "idTask": "1",
+          "description": "another test",
+          "priority": "medium",
+          "actived": true
+        }
+      ]
+    }
+
+  ]
+}
